@@ -3,7 +3,7 @@
 
 Task 1 Prediction Using Supervised Machine Learning using Linear Regression Method;
 
-- Linear regression is a statistical method for modeling relationships between a dependent variable with a given set of independent variables.
+- Linear regression is a statistical method for modelling relationships between a dependent variable with a given set of independent variables.
 
 This dataset contains two(2) variables
 
