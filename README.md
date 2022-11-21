@@ -1,8 +1,9 @@
 # The Sparks Foundation Graduate Rotational Internship Program for Data Science & Business Analytics Internship November2022.
 
 
-
 Task 1 Prediction Using Supervised Machine Learning using Linear Regression Method;
+
+- Linear regression is a statistical method for modeling relationships between a dependent variable with a given set of independent variables.
 
 This dataset contains two(2) variables
 
